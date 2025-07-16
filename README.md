@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/54721824?v=4"  />
 
 ###
 
@@ -36,7 +36,5 @@
 ###
 
 <br clear="both">
-
-<img src="[https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg](https://avatars.githubusercontent.com/u/54721824?v=4)" alt="Carlos Profile" />
 
 ###
