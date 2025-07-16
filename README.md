@@ -30,6 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" height="30" alt="Laravel logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" height="30" alt="Nginx logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" height="30" alt="NodeJS logo"  />
   
 </div>
 
@@ -42,9 +46,5 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
 
 ###
